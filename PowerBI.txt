@@ -1,0 +1,29 @@
+Dowbload Link : https://www.microsoft.com/en-us/power-platform/products/power-bi/
+
+DAY 1
+
+- TYPES DE CONNECTEURS DE DONNÉES
+- ÉDITEUR POWER QUERY
+- OUTILS D'ÉDITION DE REQUÊTES
+- TRANSFORMATIONS DE TABLES DE BASE
+- EXERCICE : TRANSFORMATIONS DE TABLEAUX
+Pourriez-vous créer deux nouvelles requêtes pour vous connecter aux fichiers
+Recherche de catégorie de produit et Recherche de sous-catégorie de produit
+ci-joints, et apporter quelques modifications au tableau des produits
+?
+- SOLUTION : TRANSFORMATIONS DE TABLEAUX
+- CONNEXION À UNE BASE DE DONNÉES
+- EXTRACTION DE DONNÉES À PARTIR DU WEB
+- PROFILAGE DES DONNÉES :
+    - QUALITÉ DES COLONNES
+    - RÉPARTITION DES COLONNES
+    - PROFIL DES COLONNES
+- OUTILS TEXTE
+- EXERCICE : OUTILS DE TRAITEMENT DE TEXTE
+Nous cherchons à mieux comprendre d'où viennent nos clients en fonction de leurs domaines de messagerie. 
+Pourriez-vous créer une nouvelle colonne dans le tableau des clients qui nous permettra de le faire ?
+
+- SOLUTION : OUTILS DE TRAITEMENT DE TEXTE
+- OUTILS NUMÉRIQUES
+    - EXERCICE : OUTILS NUMÉRIQUES
+    - SOLUTION : OUTILS NUMÉRIQUES.
